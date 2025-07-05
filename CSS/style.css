@@ -577,13 +577,13 @@ footer .footer-bottom p {
 /* Nosotros Responsive */
 @media (max-width: 1024px) {
   .us-section {
-    height: 150vh;
+    height: 180vh;
   }
 }
 /* Contacto Responsive */
 @media (max-width: 1024px) {
   .contact-section {
-    height: 100vh;
+    height: 130vh;
   }
   .contact-section .contact-container {
     grid-template-columns: 1fr;
